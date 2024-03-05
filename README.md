@@ -1,5 +1,4 @@
-![Screenshot (89)](https://github.com/Deepthipenjarla/Datavisualization/assets/110033651/6d86c5ff-e047-4be1-86b2-1349e5278ca0)![TASK-1 OUTPUT](https://github.com/Deepthipenjarla/Datavisualization/assets/110033651/5a23bbbe-9906-4802-9674-8c741508974b)DATASET: EXAMS.CSV
-
+DATASET: EXAMS.CSV
 This document provides a description of a dataset containing information about five individual values "gender", "test preparation course", "math score", "reading score", and "writing score".
 ![Screenshot (87)](https://github.com/Deepthipenjarla/Datavisualization/assets/110033651/1607f0a8-35f4-4fc4-aff4-ab0a10cae73c)
 Usage This dataset can be used for various purposes, including: Analyzing the academic performance of individuals in different scores. Identifying trends and patterns in exams scores. Conducting statistical analysis, such as calculating averages, standard deviations, etc. Visualizing data using charts and graphs. Building predictive models based on the data.
