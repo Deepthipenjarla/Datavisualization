@@ -1,0 +1,27 @@
+.footer {
+  text-align: center;
+  background-color: #476a97;
+  padding: 25px;
+  background-image: url("C:\Users\dell\Desktop\khub task\frontend\src\Components\Footer\git.png");
+  background-size: 40px;
+  background-position: 99%;
+  background-repeat : no-repeat
+}
+
+.footer1 {
+  text-align: center;
+  padding: 0px;
+  background-color: #324359;
+  color: #fff;
+  margin-top: -20px;
+}
+
+@media (max-width: 768px) {
+	.footer {
+	  align-items: center;
+	}
+	
+	.footer-section {
+	  padding: 5px;
+	}
+  }
